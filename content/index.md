@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Peng's 2ed brain.
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Hello from Peng. Welcome to my 2ed brain, hope the knowledge I shared here can be a some useful insights for you. If you are interested in my other projects, pls visit: [mugpeng (Peng)](https://github.com/mugpeng) 
